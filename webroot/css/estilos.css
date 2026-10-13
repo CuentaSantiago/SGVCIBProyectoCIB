@@ -35,6 +35,8 @@ div {
     padding: 20px;
     flex-direction: row;
     margin-top: 70px;
+    overflow-wrap: break-word;
+    word-break: break-word;  
 }
 div > div {
     background-color: white;
@@ -48,6 +50,8 @@ div > div {
     width: 300px;
     text-align: center;
     flex-direction: column;
+    overflow-wrap: break-word;
+    word-break: break-word;    
 }
 
 /* Títulos de secciones */
