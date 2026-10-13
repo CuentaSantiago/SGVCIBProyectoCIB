@@ -20,7 +20,7 @@
         <div>
             <div>
                 <h2>UT1: Fundamentos de Ciberseguridad</h2>
-                <h4><a href="doc/diccionario.pdf">Documentación</a></h4>
+                <h4><a href="doc/diccionario.pdf">Diccionario</a></h4>
             </div>
         </div>
         <div>
