@@ -26,7 +26,7 @@
         <div>
             <div>
                 <h2>UT2: Servidor Web Seguro</h2>
-                <h4><a href="doc/SGV-USED1.pdf">Documentación</a></h4>
+                <h4><a href="https://github.com/CuentaSantiago/SGVCIBProyectoCIB/blob/main/doc/SGV-USUD.md">Documentación</a></h4>
             </div>
         </div>
         <div>
