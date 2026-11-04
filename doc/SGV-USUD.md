@@ -388,6 +388,21 @@ sudo nano /etc/php/8.5/fpm/php.ini
 ```
 
 Utiliza Ctrl + W para buscar las directivas que debas modificar o comprobar.
+``` bash
+display_errors = On 
+display_startup_errors = On
+error_reporting= E_ALL
+log_errors = On
+error_log /var/log/php_errors.log 
+memory_limit = 256M 
+max_execution_time = 360
+max_input_time = 360
+file_uploads = On
+upload_max_filesize = 100M
+post_max_size = 100M
+allow_url_fopen= On
+date.timezone = Europe/Madrid
+```
 
 Guarda los cambios y reinicia PHP-FPM:
 
